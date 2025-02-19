@@ -70,7 +70,6 @@ export function Dashboard() {
             </button>
           </motion.div>
 
-          {/* Checkout Profile */}
 
 
 
@@ -99,14 +98,13 @@ export function Dashboard() {
               Checkout Profile
             </h3>
             <p className="text-gray-300 mt-2">
-              View and manage your gaming profile, track your achievements, and
-              connect with other VR enthusiasts.
+            View the latest VR news and stay updated with cutting-edge advancements, hardware innovations, and industry trends.
             </p>
             <button
-              onClick={() => navigate("/profile")}
+              onClick={() => navigate("/vrNews")}
               className="mt-4 px-4 py-2 bg-red-500 hover:bg-red-700 text-black font-bold rounded-lg transition-all"
             >
-              View Profile
+              View News
             </button>
           </motion.div>
         </div>
