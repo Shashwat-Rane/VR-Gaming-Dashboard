@@ -95,7 +95,7 @@ export function Dashboard() {
             className="from-purple-900 via-black to-purple-900 border-2 border-purple-600 rounded-lg shadow-lg overflow-hidden p-6"
           >
             <h3 className="text-xl font-semibold text-white">
-              Checkout Profile
+              Checkout VR News
             </h3>
             <p className="text-gray-300 mt-2">
             View the latest VR news and stay updated with cutting-edge advancements, hardware innovations, and industry trends.
